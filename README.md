@@ -8,6 +8,7 @@ Repo used during the Compucool Git workshop
 - three
 - four
 - five 
+- eight
 
 ```bash
 for i in *.dat; do
