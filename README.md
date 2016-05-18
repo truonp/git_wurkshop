@@ -1,10 +1,13 @@
 # git_wurkshop
 Repo used during the Compucool Git workshop
+
 ##Installations Instructions
-None.
+
 - one
 - two
 - three
+- four
+- five 
 
 ```bash
 for i in *.dat; do
